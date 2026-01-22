@@ -3,7 +3,7 @@
 ## Name
 Dirsbuted File Storage (similar to HDFS) & Stream Processing System (similar to Apache Spark) written in Java
 
-Developed by Anant Goyal (anantg2@illinois.edu) and Abuzar Hussain Mohammad (ahm7@illinois.edu)
+Developed by Abuzar Hussain Mohammad (ahm7@illinois.edu) Anant Goyal (anantg2@illinois.edu)
 
 ## Description
 
