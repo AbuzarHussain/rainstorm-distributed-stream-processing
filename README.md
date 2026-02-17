@@ -1,7 +1,7 @@
-# Distributed Stream Processing Engine
+# RainStorm: Distributed Stream Processing Framework
 
 ## Name
-Dirsbuted Stream Processing Frame (similar to Apache Spark) written in Java
+Distributed Stream Processing Framework (similar to Apache Spark) written in Java
 
 Developed by Abuzar Hussain Mohammad (ahm7@illinois.edu) Anant Goyal (anantg2@illinois.edu)
 
