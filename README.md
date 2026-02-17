@@ -1,19 +1,19 @@
-# Distributed File System & Stream Processing Engine
+# Distributed Stream Processing Engine
 
 ## Name
-Dirsbuted File Storage (similar to HDFS) & Stream Processing System (similar to Apache Spark) written in Java
+Dirsbuted Stream Processing Frame (similar to Apache Spark) written in Java
 
 Developed by Abuzar Hussain Mohammad (ahm7@illinois.edu) Anant Goyal (anantg2@illinois.edu)
 
 ## Description
 
-We have extended our HyDFS distributed file system with a distributed stream-processing engine called Rainstorm. The system supports multi-stage stream processing pipelines, fault tolerance through logging and replay, autoscaling, and integration with HyDFS for durable final outputs. Input data is streamed from HyDFS through Stage 0 tasks, processed through user-defined operators, and final outputs are appended to an output file stored on VM1.
+We have extended our HyDFS distributed file system with a distributed stream-processing framework called Rainstorm. The system supports multi-stage stream processing pipelines, fault tolerance through logging and replay, autoscaling, and integration with HyDFS for durable final outputs. Input data is streamed from HyDFS through Stage 0 tasks, processed through user-defined operators, and final outputs are appended to an output file stored on VM1.
 
 ## Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/anant248/hybrid-dfs.git
+   git clone https://github.com/AbuzarHussain/hybrid-dfs.git
    cd hybrid-dfs
    ```
 2. **Build the project:**
